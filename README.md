@@ -1,2 +1,3 @@
-#Naivecoin ui
-The repository for ui code of naivecoin
+# Naivecoin UI
+
+The repository for chapter6 UI code of naivecoin
